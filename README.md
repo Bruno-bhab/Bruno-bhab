@@ -13,11 +13,14 @@ Passionate about tackling challenges and mastering the art of problem-solving. C
 </div>
 
 &nbsp;
+
 <!-- Images Side by Side with Equal Height and Space Between -->
-<div style="display: flex; justify-content: space-between;">
-  <a href=""><img style="height: 200px; width: 45%; margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=Bruno-bhab&show_icons=true&theme=radical&layout=default" /></a>
-  <a href=""><img style="height: 200px; width: 45%; margin-left: 20px;" src="https://github-readme-stats-bruno-bhab.vercel.app/api/top-langs/?username=Bruno-bhab&show_icons=true&theme=radical&layout=compact" /></a>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href=""><img style="height: 200px; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Bruno-bhab&show_icons=true&theme=radical&layout=default" /></a>
+  <div style="width: 20px;"></div> <!-- Empty div for spacing -->
+  <a href=""><img style="height: 200px; width: 45%;" src="https://github-readme-stats-bruno-bhab.vercel.app/api/top-langs/?username=Bruno-bhab&show_icons=true&theme=radical&layout=compact" /></a>
 </div>
+
  &nbsp;
  &nbsp;
 
