@@ -1,5 +1,5 @@
-<div align="center" style="width: 100%; height: 100px; background-color:black;">
-<img height="100px"  src="https://github.com/Bruno-bhab/Bruno-bhab/blob/main/cover.gif?raw=true">
+<div style="width: 100%; height: 100px; background-color:black;">
+  <img height="100px"  src="https://github.com/Bruno-bhab/Bruno-bhab/blob/main/cover.gif?raw=true">
 </div>
 
 <div align="center">
