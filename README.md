@@ -1,6 +1,6 @@
-<a href="" style="width: 500px; height: 100px; background:#000000;">
+<div style="width: 500px; height: 100px; background:#000000;">
   <img height="100px" src="https://github.com/Bruno-bhab/Bruno-bhab/blob/main/cover.gif?raw=true">
-</a>
+</div>
 
 <div align="center">
 
