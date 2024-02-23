@@ -1,4 +1,4 @@
-<img height="100px" src="https://github.com/Bruno-bhab/Bruno-bhab/blob/main/cover.gif?raw=true">
+<img width="100%" src="https://github.com/Bruno-bhab/Bruno-bhab/blob/main/cover.gif?raw=true">
 
 <div align="center">
 
