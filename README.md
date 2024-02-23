@@ -14,7 +14,7 @@ Passionate about tackling challenges and mastering the art of problem-solving. C
 
 &nbsp;
 
-<div  align="center" style="margin-bottom:50px; display: flex; align-items: center; justify-content: space-between; height: 250px">
+<div  align="center" style="margin-bottom:50px; display: flex; flex-direction: row; align-items: center; justify-content: space-between; height: 250px">
 <img width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=Bruno-bhab&show_icons=true&theme=radical&layout=default" />
 <img width=100% align="center" src="https://github-readme-stats-bruno-bhab.vercel.app/api/top-langs/?username=Bruno-bhab&show_icons=true&theme=radical&layout=compact" />
  </div>
