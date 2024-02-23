@@ -1,6 +1,6 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/bruno.bhab/bruno.bhab/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<div align="center" style="width: 100%; height: 100px; background-color:black;">
+<img height="100px"  src="https://github.com/Bruno-bhab/Bruno-bhab/blob/main/cover.gif?raw=true">
+</div>
 
 <div align="center">
 
