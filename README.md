@@ -16,7 +16,7 @@ Passionate about tackling challenges and mastering the art of problem-solving. C
 
 <!-- First Image -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruno-bhab&show_icons=true&theme=radical&layout=default)](https://github.com/Bruno-bhab)
-
+---
 <!-- Second Image -->
 [![Top Languages](https://github-readme-stats-bruno-bhab.vercel.app/api/top-langs/?username=Bruno-bhab&show_icons=true&theme=radical&layout=compact)](https://github.com/Bruno-bhab)
 
