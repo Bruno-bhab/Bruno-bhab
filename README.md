@@ -14,11 +14,16 @@ Passionate about tackling challenges and mastering the art of problem-solving. C
 
 &nbsp;
 
-<!-- Images Side by Side with Equal Height -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href=""><img style="height: 160px; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Bruno-bhab&show_icons=true&theme=radical&layout=default" /></a>
-  <a href=""><img style="height: 160px; width: 45%;" src="https://github-readme-stats-bruno-bhab.vercel.app/api/top-langs/?username=Bruno-bhab&show_icons=true&theme=radical&layout=compact" /></a>
+<!-- Images Side by Side Aligned Center with Equal Height and Space Between -->
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 20px;">
+    <a href=""><img style="height: 200px; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Bruno-bhab&show_icons=true&theme=radical&layout=default" /></a>
+  </div>
+  <div style="margin-left: 20px;">
+    <a href=""><img style="height: 200px; width: 45%;" src="https://github-readme-stats-bruno-bhab.vercel.app/api/top-langs/?username=Bruno-bhab&show_icons=true&theme=radical&layout=compact" /></a>
+  </div>
 </div>
+
 
  &nbsp;
  &nbsp;
